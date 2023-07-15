@@ -1,0 +1,73 @@
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.pdb
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.exe
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.pdb
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csprojResolveAssemblyReference.cache
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormClientes.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMenu.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csproj.GenerateResource.Cache
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.exe
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormCompanias.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormConteudos.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormEmbalagens.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMinuta.resources
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormSiglas.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csprojResolveAssemblyReference.cache
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormClientes.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormCompanias.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormConteudos.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormEmbalagens.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMenu.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMinuta.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormSiglas.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csproj.GenerateResource.Cache
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.exe
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.exe
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.pdb
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.pdb
+C:\Users\fotopresente\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Form1.resources
+C:\Users\Infinity\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Form1.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.exe
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.pdb
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Form1.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormClientes.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormCompanias.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormConteudos.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormEmbalagens.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMenu.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMinuta.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormRelatorioADM.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormSiglas.resources
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.exe
+C:\Users\user\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csprojResolveAssemblyReference.cache
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Form1.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormClientes.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormCompanias.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormConteudos.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormEmbalagens.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMenu.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMinuta.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormRelatorioADM.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormSiglas.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csproj.GenerateResource.Cache
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.pdb
+D:\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.exe
+D:\S_7Transportadora\P_7Transportadora\bin\Debug\P_7Transportadora.pdb
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csprojResolveAssemblyReference.cache
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Form1.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormClientes.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormCompanias.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormConteudos.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormEmbalagens.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMenu.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormMinuta.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormRelatorioADM.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.Formularios.FormSiglas.resources
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.csproj.GenerateResource.Cache
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.exe
+D:\S_7Transportadora\P_7Transportadora\obj\Debug\P_7Transportadora.pdb

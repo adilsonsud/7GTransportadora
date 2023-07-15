@@ -1,0 +1,18 @@
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.exe.config
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.exe
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.pdb
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.csprojResolveAssemblyReference.cache
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.Form1.resources
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.Properties.Resources.resources
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.csproj.GenerateResource.Cache
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.exe
+c:\users\mac\documents\visual studio 2012\Projects\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.exe.config
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\bin\Debug\ValorPorExtenso.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.csprojResolveAssemblyReference.cache
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.Form1.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.Properties.Resources.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.csproj.GenerateResource.Cache
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7Transportadora\Arquivos\ValorPorExtenso\ValorPorExtenso\obj\Debug\ValorPorExtenso.pdb

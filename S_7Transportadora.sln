@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_7Transportadora", "P_7Transportadora\P_7Transportadora.csproj", "{F3F5278E-86D9-4E0F-ADBC-7733664F58BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F5278E-86D9-4E0F-ADBC-7733664F58BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F5278E-86D9-4E0F-ADBC-7733664F58BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F5278E-86D9-4E0F-ADBC-7733664F58BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F5278E-86D9-4E0F-ADBC-7733664F58BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
